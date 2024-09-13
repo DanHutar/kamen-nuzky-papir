@@ -1,0 +1,16 @@
+body{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Trebuchet MS';
+	background-color: rgb(248, 247, 244);
+}
+
+button{
+	background-color: #ca9e5b;
+	border-radius: 6px;
+	font-size: 1em;
+	font-weight: bold;
+	border: none;
+	padding: 20px 50px;
+}
