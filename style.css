@@ -18,3 +18,13 @@ button{
 button:hover{
 	background-color: #d8b684;
 }
+
+#statistika{
+	display: flex;
+}
+#tvojeStatistika{
+	padding: 0 1em;
+}
+#pocitaceStatistika{
+	padding: 0 1em;
+}

@@ -155,8 +155,6 @@ if (array_key_exists("pocitacKamen", $_SESSION) == false) {
 			?>
 		</div>
 
-		<br>
-
 		<div id="pocitaceStatistika">
 			<p>Počítače statistika - co vybral on</p>
 			<?php
